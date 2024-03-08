@@ -1,0 +1,1 @@
+{"version":3,"file":"SetCorrectEnding.js","sourceRoot":"","sources":["../src/SetCorrectEnding.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,gBAAgB;IAC3B,MAAM,CAAC,SAAS,GAAY,KAAK,CAAC;IAEnC,MAAM,CAAC,YAAY,CAAC,MAAe;QACxC,IAAI,CAAC,SAAS,GAAG,MAAM,CAAC;IAC1B,CAAC;IAEM,MAAM,CAAC,YAAY;QACxB,OAAO,IAAI,CAAC,SAAS,CAAC;IACxB,CAAC"}
